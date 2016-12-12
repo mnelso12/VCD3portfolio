@@ -30,6 +30,11 @@ ol, ul {
 	list-style: none;
 }
 
+/* added this */
+h3 {
+	font-weight: bold!important;
+}
+
 blockquote, q {
 	quotes: none;
 }
